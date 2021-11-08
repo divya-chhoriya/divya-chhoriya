@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @divya-chhoriya
+- 👋 Hello, I’m Divya Chhoriya
 
 <!---
 divya-chhoriya/divya-chhoriya is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
